@@ -1,4 +1,3 @@
-discord
 openai
 nest_asyncio
 gradio
