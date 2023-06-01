@@ -1,0 +1,28 @@
+# This is a TOML document.
+
+title = "TOML Example"
+
+[owner]
+name = "Lukexyz"
+date = "2023-06-01"
+
+[start]
+greeting = "`namebaby` is online  💅."
+options = ["Button1", "Button2", "Button3"]
+
+[start.config]
+location = "home"
+state = "active"
+
+[[start.buttons]]
+name = "Button1"
+action = "Action1"
+
+[[start.buttons]]
+name = "Button2"
+action = "Action2"
+
+[[start.buttons]]
+name = "Button3"
+action = "Action3"
+

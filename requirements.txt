@@ -1,5 +1,8 @@
 openai
 nest_asyncio
-gradio
-langchain
 py-cord
+toml
+rich
+
+# gradio
+# langchain
