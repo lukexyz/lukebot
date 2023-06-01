@@ -26,3 +26,12 @@ action = "Action2"
 name = "Button3"
 action = "Action3"
 
+
+[[fruit]]         # double brackets define an array of tables.
+name = "apple"
+color = "red"
+
+[[fruit]]         # second entry in [[fruit]]
+name = "banana"
+color = "yellow"
+
